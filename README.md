@@ -1,5 +1,5 @@
 ---
-title: "Viridis Notebook"
+title: "Shed light on data with R"
 output: html_notebook
 ---
 
